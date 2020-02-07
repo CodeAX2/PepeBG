@@ -1,5 +1,8 @@
 # PepeBG
- Chrome extension to make all backgrounds pepe
+Chrome extension to make all backgrounds pepe
+ 
+ This is just made for fun to both practice creating Chrome plugins as
+ well as messing around with CSS and JS.
 
 ## How To Install
 1. Download the repository to your computer

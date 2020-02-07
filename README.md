@@ -13,3 +13,6 @@ Chrome extension to make all backgrounds pepe
 6. Once dropped, a new extension named **Make Background Pepe 0.1.0** should appear
 7. Ensure the extension is enabled by navigating to any website
 8. Enjoy your cursed extension of Pepe!
+
+## Example
+![Example of pepe](https://github.com/CodeAX2/PepeBG/blob/master/ReadMe%20Images/example.png)
